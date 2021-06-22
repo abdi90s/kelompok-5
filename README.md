@@ -8,15 +8,14 @@ https://www.canva.com/design/DAEiCcXJspo/0q9V_KLI-yJVuqodtxtbpQ/view?utm_content
 Hak akses level Admin/user
 
 
-User Email 
+### User  
 > username : user@user.com 
 > password : user
 
-User II 
 > username : user2
 > password : user2
 
-admin
+#### admin
 > username : admin
 > password : admin
 
