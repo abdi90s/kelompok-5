@@ -1,4 +1,4 @@
-# Sistem Reservasi Kereta Api 
+# Sistem Informasi dan Reservasi Kereta Api 
 # Kelompok 5 
 
 ## Presentasi 
