@@ -41,7 +41,6 @@ Admin
 * Log Validation
 
 
-## Authors.
-0
+## Pengembang.
 
 * **Kelompok - 5** - *Abdiansyah Camara dan Rekan*
