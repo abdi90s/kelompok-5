@@ -2,7 +2,7 @@
 # Kelompok 5 
 
 ## Presentasi 
-https://www.canva.com/design/DAEiCcXJspo/0q9V_KLI-yJVuqodtxtbpQ/view?utm_content=DAEiCcXJspo&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent
+https://www.canva.com/design/DAEiCcXJspo/0q9V_KLI-yJVuqodtxtbpQ/view?utm_content=DAEiCcXJspo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 ## Login 
 Hak akses level Admin/user
