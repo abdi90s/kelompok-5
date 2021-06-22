@@ -43,4 +43,8 @@ Admin
 
 ## Pengembang
 
-* **Kelompok - 5** - *Abdiansyah Camara dan Rekan*
+* **Kelompok - 5** - 
+* Abdiansyah - 19200619
+* Yohakim Demo - 19200476
+* Ridwan Adi - 19200280
+* Alif Naftaly - 19201050
